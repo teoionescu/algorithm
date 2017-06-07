@@ -1,2 +1,2 @@
 # algorithm
-algorithms snippets
+various algorithm snippets
